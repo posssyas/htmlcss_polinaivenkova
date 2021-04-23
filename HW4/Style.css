@@ -1,0 +1,89 @@
+.italic{
+    font-style: italic;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.blue2{
+    color: rgb(0,255,255);
+}
+.yellow{
+    color: yellow;
+}
+
+#task1{
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+}
+#task2{
+    background-color: rgb(88,88,88);
+    width: 190px;
+    height: 40px;
+    margin: 5px 0px 5px 10px;
+    text-align: center;
+    line-height: 250%;
+}
+#task3{
+    width: 48px;
+    height: 224px;
+    background-color: white;
+    border: 1px solid white;
+}
+.task4{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border: 1px solid black;
+    margin: 4px;
+}
+.task5{
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    border: 1px solid blue;
+    margin: 4px;
+}
+#task6{
+    width: 500px;
+    height: 150px;
+    background-color: green;
+    margin: 10px;
+    font-family: 'Playfair Display', serif;
+}
+#task7{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 45px;
+    margin: 5px;
+}
+#task8{
+    color: white;
+    font-size: 18px;
+    line-height: 20px;
+    margin: 5px;
+    text-align: left;
+}
+#task9{
+    width: 220px;
+    height: 320px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+#task10{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 10px 0;
+}
+#task11{
+    text-align: center;
+}
+#task12{
+    text-align: left;
+}
